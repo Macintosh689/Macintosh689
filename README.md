@@ -1,8 +1,7 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" height="300">
-</div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300">
+ </div>
 
 ###  Привет, меня зовут Федор 👋
 ### :man_technologist: Обо мне:
