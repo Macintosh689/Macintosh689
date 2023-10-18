@@ -18,10 +18,20 @@
 </div>
 
 
+### 📱 Мои контакты:
 
+<div id="badges">
+  <a href="https://t.me/macintosh689">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:macintosh689@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+ </div> 
 
+### ⚡ Статистика :
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Macintosh689&theme=dark&background=000)](https://git.io/streak-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Macintosh689&theme=dark&background=000)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
