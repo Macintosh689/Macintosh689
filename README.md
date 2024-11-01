@@ -18,7 +18,7 @@
 ### 📱 Мои контакты:
 
 <div id="badges">
-  <a href="https://t.me/macintosh689">
+  <a href="https://t.me/K_Fedor">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:macintosh689@gmail.com">
